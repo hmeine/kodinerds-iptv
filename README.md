@@ -11,7 +11,7 @@ Die Listen sind unterteilt in verschiedene Typen, hier gibt es folgende Typen:
 
 * kodi - Für den optimalen Empfang in Kodi, mit Kategorien für TV-Kanäle. Zu benutzen mit beiden Versionen des PVR IPTV Simple Client.
 * clean - Basisliste mit Kategorisierung nach Land. Zum Beispiel für den VLC media player optimal.
-* pipe - Liste mit Streams für das PVR-Backend Tvheadend. Streams setzen ffmpeg voraus, installiert unter /usr/bin/ffmpeg.
+* pipe - Liste mit Streams für das PVR-Backend Tvheadend. Streams setzen ffmpeg voraus, installiert unter über das ffmpeg-tools Add-On.
 * rtmp - Weitere Streams, hauptsächlich Lokalsender. Anderes Protokoll, daher als Extraliste.
 * dash - Ein paar weitere Sender als DASH-Streams. Eher für Testzwecke gedacht.
 
